@@ -1,10 +1,10 @@
 <h1 align="center">
-<img src="https://github.com/vcctm/vcctm/blob/main/logo-vicsemfundov2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Víctor Dev">
+<img src="https://github.com/vcctm/vcctm/blob/main/logo-vicsemfundov2.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Víctor Dev">
 </h1>
 
-<h3 align="center">
-<h3>Olá meu nome é Víctor,</h3> sou desenvolvedor <strong>front-end</strong> e <strong>UX /UI Designer</strong>.Atualmente desenvolvendo aplicações com React.js e Next, e estudando <strong>Sistemas de Informação</strong>, na Presberiteria Universidade de Campinas-SP.
-</h3>
+
+<h3 align="center">Olá meu nome é Víctor,</h3><p align="center"> sou desenvolvedor <strong>front-end</strong> e <strong>UX /UI Designer</strong>.Atualmente desenvolvendo aplicações com React.js e Next, e estudando <strong>Sistemas de Informação</strong>, na Presberiteria Universidade de Campinas-SP.</p>
+
 <p align="center">
   💻 Habilidades: <strong>HTML, CSS, JavaScript, TailWindCSS and UI/UX Design.</strong>
 </p>
