@@ -19,10 +19,14 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=vcctm&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vcctm&theme=dark" width="48%" >
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcctm&layout=compact&theme=dark" >
+  
+
+</p>  
+
+<p align="center">
    <a href="https://www.instagram.com/victorm.dev/" alt="Instagram">
   <img src="https://img.shields.io/badge/-instagram-DF0174?logo=instagram&logoColor=white&style=for-the-badge&link=https://www.instagram.com/victorm.dev/"/></a>
   
   <a href="https://www.linkedin.com/in/vcctm" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-linkedin-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/vcctm" /></a>
-
-</p>  
+</p>
