@@ -1,7 +1,7 @@
 <h3 >Hi, what's up!?</h3><p> my name is Víctor Miranda an underconstruction <strong>Software Engineer</strong>, although already working in that position. Also trying to study <strong>UI and UX</strong> concepts to apply on my works!. Actualy working with <strong>React.js and Node.js</strong> (Jamstack) on my job, and <strong>Next.js</strong> in some random stuffs.
   
 <p>
-  💻 Hard Skills: <strong>HTML, CSS, JavaScript, React.js, Next.js, a little of Elixir, and MaterialUI</strong>
+  💻 Hard Skills: <strong>HTML, CSS, Typescript, React.js, Next.js, a little of Elixir, and MaterialUI</strong>
 </p>
 <p>
   • Hard Design Skills: <strong>Illustrator, Photoshop, Figma, AdobeXD, and a little of CorelDraw too.</strong>
