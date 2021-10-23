@@ -18,7 +18,7 @@
 </p>  
 
 <p >
-  📲 Se quiser bater um papo não hesite em me chamar: ⤵️
+  📲 If you want to chat, don't hesitate to call me: ⤵️
 </p>
 
 <p>
