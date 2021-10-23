@@ -1,24 +1,27 @@
-<h3 align="center">Olá meu nome é Víctor,</h3><p align="center"> sou desenvolvedor <strong>front-end</strong> e <strong>UX /UI Designer</strong>.Atualmente desenvolvendo aplicações com React.js e Next, e estudando <strong>Sistemas de Informação</strong>, na Presberiteria Universidade de Campinas-SP.</p>
-
-<p align="center">
-  💻 Habilidades: <strong>HTML, CSS, JavaScript, TailWindCSS and UI/UX Design.</strong>
-</p>
-<p align="center">
-  🕹️ Ferramentas: <strong>VSCode, Illustrator, PhotoShop, Figma, Vercel, Git and GitHub.</strong>
-</p>
-<p align="center">
-  📲 Se quiser bater um papo não hesite em me chamar: ⤵️
-</p>
-<p align="center">
- 
-  <img  src="https://github-readme-stats.vercel.app/api?username=vcctm&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vcctm&theme=dark" width="48%" >
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcctm&layout=compact&theme=dark" >
+<h3 >Hi, what's up!?</h3><p> my name is Víctor Miranda an underconstruction <strong>Software Engineer</strong>, although already working in that position. Also trying to study <strong>UI and UX</strong> concepts to apply on my works!. Actualy working with <strong>React.js and Node.js</strong> (Jamstack) on my job, and <strong>Next.js</strong> in some random stuffs.
   
+<p>
+  💻 Hard Skills: <strong>HTML, CSS, JavaScript, React.js, Next.js, a little of Elixir, and MaterialUI</strong>
+</p>
+<p>
+  • Hard Design Skills: <strong>Illustrator, Photoshop, Figma, AdobeXD, and a little of CorelDraw too.</strong>
+</p>
+<p >
+  🕹️ Tools i like: <strong>VSCode, Git, GitHub, Bitbucket, Jira and other agile stuffs.</strong>
+</p>
 
+<p >
+ 
+  <img  src="https://github-readme-stats.vercel.app/api?username=vcctm&show_icons=true&hide_border=true&theme=dark" height="130px"  >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcctm&layout=compact&theme=dark&hide_border=true" height="130px" >
+  
 </p>  
 
-<p align="center">
+<p >
+  📲 Se quiser bater um papo não hesite em me chamar: ⤵️
+</p>
+
+<p>
    <a href="https://www.instagram.com/victorm.dev/" alt="Instagram">
   <img src="https://img.shields.io/badge/-instagram-DF0174?logo=instagram&logoColor=white&style=for-the-badge&link=https://www.instagram.com/victorm.dev/"/></a>
   
