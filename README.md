@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" height="300px">
+<img align="center" src="https://github.com/vcctm/vcctm/blob/main/bounty-0977577c63ed1023961d25f2e086a84b.gif" height="300px">
 </p>
 <h3 >Hi, what's up!?</h3><p> my name is Víctor Miranda an underconstruction <strong>Software Engineer</strong>, although already working in that position. Also trying to study <strong>UI and UX</strong> concepts to apply on my works!. Actualy working with <strong>React.js and Node.js</strong> (Jamstack) on my job, and <strong>Next.js</strong> in some random stuffs.
   
